@@ -1,0 +1,5 @@
+funcation hello {
+  ("Hello");
+} 
+
+alert ();
